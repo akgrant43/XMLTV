@@ -1,3 +1,15 @@
+NOTE: This is a fork of knowledgejunkie/XMLTV, which is synced from
+http://xmltv.cvs.sourceforge.net/viewvc/xmltv/
+
+This mod extends XMLTV::Get_nice to optionally retry downloads after
+failure.  The number of retries is configurable and is disabled by
+default, i.e. is backward compatible.  Whether the failure is 
+quietly handled or raises an exception is unchanged from the
+existing behaviour.
+
+Version numbers are yet to be updated.
+
+
 XMLTV 0.5.66
 
 Gather television listings, process them and organize your viewing.
