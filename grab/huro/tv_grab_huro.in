@@ -1677,6 +1677,11 @@ sub showworkers() {
 			foreach keys %WTIMES;
 	printf STDERR ("%-20s: %3d:%02dm\n",
 		"total", $total / 60, $total % 60);
+
+        # And some stats
+        printf STDERR ("Total gets: %d, including %d retries\n",
+                $XMLTV::Get_nice::GetCount,
+                $XMLTV::Get_nice::GetRetryCount);
 }
 
 #-------------------------------------------------------------------------------

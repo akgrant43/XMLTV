@@ -46,7 +46,9 @@ our $MaxTryCount = 1; # Try this many times to retrieve the page
 our $FailOnError = 1; # Fail on fetch error (after max tries, above)
 our $Response; # LWP response object
 our $IncludeUnknownTags = 0; # add support for HTML5 tags which are unknown to older versions of TreeBuilder (and therfore ignored by it)
-
+# Stats and debug counters
+our $GetRetryCount = 0; # The number of retries performed
+our $GetCount = 0; # The number of gets performed
 
 
 our $ua = LWP::UserAgent->new;
@@ -142,6 +144,7 @@ sub get_nice_aux( $ ) {
             sleep $sleep_time if $sleep_time > 0;
         }
 
+        $GetCount++;
         $r = $ua->get($url);
         $try_count++;
 
@@ -157,7 +160,7 @@ sub get_nice_aux( $ ) {
         if (!$r->is_error) {
             last;
         } else {
-            print "get_nice_aux try: $try_count\n"; # Also a place to set a break point
+            $GetRetryCount++;
         }
     }
 
