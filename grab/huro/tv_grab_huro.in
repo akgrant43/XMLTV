@@ -227,6 +227,13 @@ sub get_all_text ( $ );
 # Get options, including undocumented --cache option.
 XMLTV::Memoize::check_argv('XMLTV::Get_nice::get_nice_aux');
 
+#
+# Configure XMLTV::Get_nice
+#
+# Retry all LWP gets up to 5 times
+$XMLTV::Get_nice::MaxTryCount = 5;
+# Introduce a minimum delay (using the value suggested in XMLTV::Get_nice
+$XMLTV::Get_nice::MinDelay = 3;
 
 #-------------------------------------------------------------------------------
 # domain
