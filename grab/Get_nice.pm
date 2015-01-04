@@ -42,7 +42,8 @@ use LWP::UserAgent;
 use XMLTV;
 our $Delay = 5; # in seconds
 our $MinDelay = 0; # in seconds
-our $FailOnError = 1; # Fail on fetch error
+our $MaxTryCount = 1; # Try this many times to retrieve the page
+our $FailOnError = 1; # Fail on fetch error (after max tries, above)
 our $Response; # LWP response object
 our $IncludeUnknownTags = 0; # add support for HTML5 tags which are unknown to older versions of TreeBuilder (and therfore ignored by it)
 
@@ -127,35 +128,44 @@ sub get_nice_json( $;$$ ) {
 my $last_get_time;
 sub get_nice_aux( $ ) {
     my $url = shift;
+    my ($r, $try_count);
 
-    if (defined $last_get_time) {
-        # A page has already been retrieved recently.  See if we need
-        # to sleep for a while before getting the next page - being
-        # nice to the server.
+    $try_count = 0;
+    while ($try_count < $MaxTryCount) {
+        if (defined $last_get_time) {
+            # A page has already been retrieved recently.  See if we need
+            # to sleep for a while before getting the next page - being
+            # nice to the server.
+            #
+            my $next_get_time = $last_get_time + (rand $Delay) + $MinDelay;
+            my $sleep_time = $next_get_time - time();
+            sleep $sleep_time if $sleep_time > 0;
+        }
+
+        $r = $ua->get($url);
+        $try_count++;
+
+        # Then start the delay from this time on the next fetch - so we
+        # make the gap _between_ requests rather than from the start of
+        # one request to the start of the next.  This punishes modem users
+        # whose individual requests take longer, but it also punishes
+        # downloads that take a long time for other reasons (large file,
+        # slow server) so it's about right.
         #
-        my $next_get_time = $last_get_time + (rand $Delay) + $MinDelay;
-        my $sleep_time = $next_get_time - time();
-        sleep $sleep_time if $sleep_time > 0;
+        $last_get_time = time();
+
+        if (!$r->is_error) {
+            last;
+        } else {
+            print "get_nice_aux try: $try_count\n"; # Also a place to set a break point
+        }
     }
 
-    my $r = $ua->get($url);
-
-    # Then start the delay from this time on the next fetch - so we
-    # make the gap _between_ requests rather than from the start of
-    # one request to the start of the next.  This punishes modem users
-    # whose individual requests take longer, but it also punishes
-    # downloads that take a long time for other reasons (large file,
-    # slow server) so it's about right.
-    #
-    $last_get_time = time();
-
-		# expose the response object for those grabbers which need to process the headers, status code, etc.
-		$Response = $r;
+    # expose the response object for those grabbers which need to process the headers, status code, etc.
+    $Response = $r;
 		
     if ($r->is_error) {
-        # At the moment download failures seem rare, so the script dies if
-        # any page cannot be fetched.  We could later change this routine
-        # to return undef on failure.  But dying here makes sure that a
+        # Dying here makes sure that a
         # failed page fetch doesn't get stored in XMLTV::Memoize's cache.
         #
         die "could not fetch $url, error: " . $r->status_line . ", aborting\n" if $FailOnError;
