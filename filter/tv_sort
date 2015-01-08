@@ -175,6 +175,7 @@ sub check_sorted( $$ ) {
 }
 
 # Split up programmes according to channel
+# and in the process ensure category is sorted within the programme
 my %chan;
 foreach (@progs) {
     my $category = $_->{category};
