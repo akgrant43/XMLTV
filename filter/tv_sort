@@ -175,8 +175,15 @@ sub check_sorted( $$ ) {
 }
 
 # Split up programmes according to channel
+# and in the process ensure category is sorted within the programme
 my %chan;
 foreach (@progs) {
+    my $category = $_->{category};
+    if (ref $category ne '') {
+        my @c1 = @{$category};
+        my @s1 = sort { $a->[0] cmp $b->[0] || $a->[1] cmp $b->[1] } @c1;
+        $_->{category} = [ @s1 ];
+    }
     push @{$chan{$_->{channel}}}, $_;
 }
 
