@@ -43,6 +43,7 @@ use XMLTV;
 our $Delay = 5; # in seconds
 our $MinDelay = 0; # in seconds
 our $MaxTryCount = 1; # Try this many times to retrieve the page
+our @RetryCodes = (404, 408, 500); # List of HHTP response codes that we will retry
 our $FailOnError = 1; # Fail on fetch error (after max tries, above)
 our $Response; # LWP response object
 our $IncludeUnknownTags = 0; # add support for HTML5 tags which are unknown to older versions of TreeBuilder (and therfore ignored by it)
@@ -55,6 +56,21 @@ our $ua = LWP::UserAgent->new;
 $ua->agent("xmltv/$XMLTV::VERSION");
 $ua->env_proxy;
 our %errors = ();
+
+
+# Use Log::TraceMessages if installed.
+BEGIN {
+	eval { require Log::TraceMessages };
+	if ($@) {
+		*t = sub {};
+		*d = sub { '' };
+	}
+	else {
+		*t = \&Log::TraceMessages::t;
+		*d = \&Log::TraceMessages::d;
+		Log::TraceMessages::check_argv();
+	}
+}
 
 
 sub error_msg($) {
@@ -130,7 +146,8 @@ sub get_nice_json( $;$$ ) {
 my $last_get_time;
 sub get_nice_aux( $ ) {
     my $url = shift;
-    my ($r, $try_count);
+    my ($r, $code, $status, $try_count);
+    my $min_delay = $MinDelay;
 
     $try_count = 0;
     while ($try_count < $MaxTryCount) {
@@ -139,7 +156,7 @@ sub get_nice_aux( $ ) {
             # to sleep for a while before getting the next page - being
             # nice to the server.
             #
-            my $next_get_time = $last_get_time + (rand $Delay) + $MinDelay;
+            my $next_get_time = $last_get_time + (rand $Delay) + $min_delay;
             my $sleep_time = $next_get_time - time();
             sleep $sleep_time if $sleep_time > 0;
         }
@@ -157,10 +174,24 @@ sub get_nice_aux( $ ) {
         #
         $last_get_time = time();
 
+        $code = $r->code;
+        $status = $r->status_line;
         if (!$r->is_error) {
+            # We're done...
             last;
-        } else {
+        } elsif (!grep(/^$code$/, @RetryCodes)) {
+            # Failed, but not a retry code
+            t "get_nice_aux get failed: $status";
+            last;
+        } else { # Failed, retry if max isn't exceeded
+            # Use a modified exponential backoff
+            # Wait the maximum of the user specified min delay ($MinDelay) 
+            #     and the increasing backoff time
+            my $backoff = 2 ** ($try_count - 1);
+            $min_delay = $backoff >= $min_delay ? $backoff : $min_delay;
+            # Update the stats
             $GetRetryCount++;
+            t "get_nice_aux get failed ($try_count/$MaxTryCount, delay: $min_delay): $status";
         }
     }
 
