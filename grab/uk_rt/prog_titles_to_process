@@ -326,7 +326,6 @@
 2|Deal or No Deal
 2|Decision Time
 2|Derren Brown Investigates
-2|Dew Tour 2013
 2|Dexter
 2|Diagnosis Murder
 2|Diagnosis X
@@ -667,6 +666,7 @@
 2|Pineapple Dance Studios
 2|Police, Camera, Action!
 2|Polo
+2|Pop Heavyweights
 2|Pop World Cup
 2|Popstar to Operastar
 2|Posh Nosh
@@ -870,7 +870,6 @@
 2|Time Team Special
 2|Timewatch
 2|Tipped for the Top
-2|Tips for 2014
 2|Tonight in Person
 2|Top 10
 2|Top 20
@@ -972,7 +971,6 @@
 2|Yvette and Karl
 2|Zoo Days
 2|iTunes Festival
-2|iTunes Festival 2013
 #
 # $subtitle:$title seen in source data title
 # Works with original title/episode details seen in source
@@ -1202,8 +1200,8 @@
 5|Austin Powers: the Spy Who Shagged Me~Austin Powers: The Spy Who Shagged Me
 5|Austin Stevens' Adventures~Austin Stevens Adventures
 5|Autumn Statement~The Autumn Statement
-5|Autumnwatch 2013~Autumnwatch
-5|Autumnwatch Unsprung 2013~Autumnwatch Unsprung
+5|Autumnwatch 2015~Autumnwatch
+5|Autumnwatch Unsprung 2015~Autumnwatch Unsprung
 5|BBC Four Session~BBC Four Sessions
 5|BBC News: Regional News~BBC News and Regional News
 5|BBC News; Regional News~BBC News and Regional News
@@ -1495,6 +1493,7 @@
 5|Fab Fist Clenchers~Fab Fist Clenchers!
 5|Fabulous at 40 and Beyond~Fabulous at 40 and Beyond!
 5|Famous Rich and Jobless~Famous, Rich and Jobless
+5|Fast 'n' Loud~Fast N' Loud
 5|Father of My Children (12A)~Father of My Children
 5|Fawlty Towers - Favourite Moments~Fawlty Towers: Favourite Moments
 5|Fawlty Towers - Re-opened~Fawlty Towers: Re-opened
@@ -1508,6 +1507,7 @@
 5|Flight of the Phoenix~The Flight of the Phoenix
 5|Florida - Paradise Lost~Florida: Paradise Lost
 5|Foo Fighters - Live in London~Foo Fighters: Live in London
+5|Food - Gastro Lab~Food: Gastro Lab
 5|Football League Show~The Football League Show
 5|For Art's Sake - The Story of Ballet Russes~For Art's Sake: The Story of Ballets Russes
 5|For Art's Sake - The Story of Ballets Russes~For Art's Sake: The Story of Ballets Russes
@@ -1613,6 +1613,7 @@
 5|High Fliers - When Britain Took to the Air~High Fliers: When Britain Took to the Air
 5|High Flyer - How Britain Took to the Air~High Flyer: How Britain Took to the Air
 5|High Flyer: How Britain Took to the Air~High Flyers: How Britain Took to the Air
+5|Hijack - El Al Flight 426~Hijack: El Al Flight 426
 5|Hillsborough - The Fight for Justice~Hillsborough: The Fight for Justice
 5|Hillsborough - The Search for Truth~Hillsborough: The Search for Truth
 5|Hillsborough-The Fight for Justice~Hillsborough: The Fight for Justice
@@ -1668,6 +1669,7 @@
 5|Iraq Inquiry~The Iraq Inquiry
 5|Iron Maiden - Rock in Rio~Iron Maiden: Rock in Rio
 5|Is There Life out There?~Is There Life Out There?
+5|Issues with my Tissues~Issues with My Tissues
 5|It's Good To Be Alive~It's Good to be Alive
 5|It's Me or the Dog~It's Me Or The Dog
 5|It's a Mad Mad Mad Mad World~It's a Mad, Mad, Mad, Mad World
@@ -1897,6 +1899,7 @@
 5|NCAA Championships - Hockey Selection Show~NCAA Championships: Hockey Selection Show
 5|NFL - America's Game~NFL: America's Game
 5|NFL - Total Access~NFL: Total Access
+5|NHS Crisis - The Live Debate~NHS Crisis: The Live Debate
 5|Naabi - A Hyena Princess~Naabi: A Hyena Princess
 5|Narrowboat Afloat~Narrow Boat Afloat
 5|Nasa - Triumph and Tragedy~Nasa: Triumph and Tragedy
@@ -2014,6 +2017,7 @@
 5|Peter Darrell - Scotland's Dance Pioneer~Peter Darrell: Scotland's Dance Pioneer
 5|Peter Kay - In Conversation~Peter Kay: In Conversation
 5|Peter Ustinov - Celebrating Haydn~Peter Ustinov: Celebrating Haydn
+5|Pets - Wild at Heart~Pets: Wild at Heart
 5|Petworth House - The Big Spring Clean~Petworth House: The Big Spring Clean
 5|Phil Collins - Live & Loose in Paris~Phil Collins: Live & Loose in Paris
 5|Phil Collins Finally - The First Farewell Tour~Phil Collins Finally: The First Farewell Tour
@@ -2044,7 +2048,6 @@
 5|Primary Maths Promo - Schools TV~Primary Maths Promo: Schools TV
 5|Primeval - Behind the Scenes~Primeval: Behind the Scenes
 5|Prince William and Harry - The People's Princes~Prince William and Harry: The People's Princes
-5|Pro Bull Riders 2011~Pro Bull Riders: 2011
 5|Pro Bull Riders 2014~Pro Bull Riders: 2014
 5|Procol Harum - Live at the Union Chapel~Procol Harum: Live at the Union Chapel
 5|Procol Harum - Live~Procol Harum: Live
@@ -2208,6 +2211,7 @@
 5|Supernatural: Season Finale~Supernatural
 5|Surrender - Hell!~Surrender: Hell!
 5|Surviving Midsomer - An Insider's Guide~Surviving Midsomer: An Insider's Guide
+5|Surviving the Holocaust - Freddie Knoller's War~Surviving the Holocaust: Freddie Knoller's War
 5|Swallowed by the Sea - Ancient Egypt's Greatest Lost City~Swallowed by the Sea: Ancient Egypt's Greatest Lost City
 5|Sweet Christmas Treats With..~Sweet Christmas Treats With...
 5|Swimming to Scotland - Crossing Hell's Mouth~Swimming to Scotland: Crossing Hell's Mouth
@@ -2322,6 +2326,7 @@
 5|The Visionary - Sandy Busby on Sir Matt~The Visionary: Sandy Busby on Sir Matt
 5|The Wanted: Backstage In Brazil~The Wanted: Backstage in Brazil
 5|The Week At The Iraq Inquiry~The Week at the Iraq Inquiry
+5|The Who - The Making of Tommy~The Who: The Making of Tommy
 5|The Who - The Story of Tommy~The Who: The Story of Tommy
 5|The Who - Who's Next~The Who: Who's Next
 5|The Wonderful Wizard of Oz - The True Story~The Wonderful Wizard of Oz: The True Story
@@ -2370,7 +2375,6 @@
 5|UK Hot 40~UKHot40
 5|UK360~UK 360
 5|UKHot 40 Big Beats Chart~UKHot40 Big Beats Chart
-5|UKHot40 of 2013!~UKHot40 of 2013
 5|Uk Hot 40~UKHot40
 5|Ulrika - Am I a Sex Addict?~Ulrika: Am I a Sex Addict?
 5|Ultimate 100 21st Century No.1s From The Girls~Ultimate 100 21st Century No 1s From the Girls
@@ -2441,6 +2445,7 @@
 5|World BBoy ~World B-Boy
 5|World Championship Snooker - Extra~World Championship Snooker: Extra
 5|World SuperMoto~World Supermoto
+5|World's Deadliest Storms~The World's Deadliest Storms
 5|World's Greatest Gambling Scams~The World's Greatest Gambling Scams
 5|Wye - Voices from the Valley~Wye: Voices from the Valley
 5|X Factor - What They Sang~The X Factor: What They Sang
@@ -2494,6 +2499,7 @@
 6|A Day to Remember~Music and Arts
 6|A Garden in Snowdonia~Gardening
 6|A Girls Night In~Music and Arts
+6|A History of Ancient Britain~History
 6|A History of Celtic Britain~Documentary
 6|A League of Their Own~Game show
 6|A Million Pound Place in the Sun~Travel
@@ -2546,8 +2552,10 @@
 6|American Dad~Animation
 6|American Hotrod~Interests
 6|American Idol~Entertainment
+6|American Pickers~Interests
 6|An Idiot Abroad~Comedy
 6|An Inconvenient Truth 2~Documentary
+6|Ancient X Files~Documentary
 6|Angela and Friends~Entertainment
 6|Animal 24:7~Nature
 6|Animal Airport~Documentary
@@ -2573,6 +2581,8 @@
 6|Austin Stevens Adventures~Nature
 6|Australia's Next Top Model~Entertainment
 6|Autopsy~Documentary
+6|Autumnwatch Unsprung~Nature
+6|Autumnwatch~Nature
 6|Awkward~Drama
 6|BBC Lifeline~Current affairs
 6|BBC News Special~News
@@ -2603,6 +2613,8 @@
 6|Behind the Scenes~Entertainment
 6|Being N-Dubz in America and Beyond~Reality
 6|Benefits Britain: Life on the Dole~Documentary
+6|Benefits: Too Fat to Work~Documentary
+6|Benefits~Current affairs
 6|Bernard~Animation
 6|Best of British~Documentary
 6|Better Off Ted~Sitcom
@@ -2610,6 +2622,7 @@
 6|Beyond River Cottage~Interests
 6|Biathlon World Cup~Sport
 6|Big Brother~Reality
+6|Big Rich Texas~Reality
 6|Big, Bigger, Biggest~Documentary
 6|Bikeworks~Interests
 6|Bill Bailey Qualmpeddler~Comedy
@@ -2627,6 +2640,7 @@
 6|Bonanza~Drama
 6|Born to Kill?~Documentary
 6|Boy in the Bubble~Documentary
+6|Brain Games~Science
 6|Brainiac: Science Abuse~Science
 6|Breakfast~News and current affairs
 6|Brief Encounters of the Sporting Mind~Documentary
@@ -2668,10 +2682,13 @@
 6|Car Crash TV~Entertainment
 6|Car Vs Wild~Entertainment
 6|Car Wars~Documentary
+6|Cars, Cops and Criminals~Documentary
 6|Cash in the Attic~Entertainment
 6|Cast Offs~Drama
+6|Caught Red Handed~Documentary
 6|Caught in the Act~Documentary
 6|Celebrity Antiques Road Trip~Interests
+6|Celebrity Big Brother~Reality
 6|Celebrity Big Brother~Reality
 6|Celebrity Britain's Best Dish~Food
 6|Celebrity Come Dine with Me Extra Portions~Entertainment
@@ -2680,11 +2697,14 @@
 6|Celebrity Fifteen to One~Game show
 6|Celebrity Juice~Comedy
 6|Celebrity MasterChef~Food
+6|Celebrity Slimming~Reality
 6|Celebrity Wife Swap~Entertainment
 6|Celebs 24/7~Entertainment
 6|Celtic Connections~Music
 6|Cenotaph Highlights~Current affairs
+6|Central Steam~Documentary
 6|Channel 4 News~News
+6|Channel Patrol~Documentary
 6|Chart Jackers~Entertainment
 6|Chas & Dave: Last Orders~Entertainment
 6|Chasing Classic Cars~Lifestyle
@@ -2707,19 +2727,20 @@
 6|Cirque du Soleil~Arts
 6|City Under the Sea~Documentary
 6|City of Sport~Documentary
+6|Claimed and Shamed~Documentary
 6|Class Clips~Education
 6|Classic Albums~Music and Arts
 6|Classic British Aircraft~Documentary
 6|Click~Science
 6|Climate Challenge~Nature
 6|Clive James Talking in the Library~Talk show
+6|Closing Time~Documentary
 6|Coast~Nature
 6|Cocktail Kings~Food
 6|Code-Breakers: Bletchley Park's Lost Heroes~Documentary
 6|Colditz~Drama
 6|Columbo~Drama
 6|Come Dine with Me~Entertainment
-6|Come Dine with Me~Reality
 6|Comedy Classics~Comedy
 6|Comedy Lab~Comedy
 6|Coming Up~Drama
@@ -2729,13 +2750,16 @@
 6|Compass~Current affairs
 6|Concorde: The Final Flight~Documentary
 6|Confessions of an Animal Hoarder~Documentary
+6|Conservative Party Conference~Current affairs
 6|Cooks to Market~Food
+6|Cops Uncut~Documentary
 6|Cops with Cameras~Documentary
 6|Coronation Street~Soap
 6|Corrigan's Family Christmas~Arts and culture
 6|Cosmic Quantum Ray~Animation
 6|Could I Get Ebola?~Documentary
 6|Countdown to Christmas~Music
+6|Countdown to Murder~Documentary
 6|Country Lives~Interests
 6|Countryfile~Documentary
 6|Cowboy Trap~Consumer
@@ -2746,11 +2770,14 @@
 6|Cricket: England v Australia - 1977~Sport
 6|Crime Scene Wild~Documentary
 6|Crime Stories~Documentary
+6|Crimewatch Update~Current affairs
+6|Crimewatch~Current affairs
 6|Criminal Minds~Drama
 6|Criminals: Caught on Camera~Documentary
 6|Crisis Control~Science
 6|Critical Condition~Health
 6|Cross-Country Skiing~Sport
+6|Crowd Control~Interests
 6|Cruise with Stelios: Caribbean~Lifestyle
 6|Custom My Ride~Interests
 6|Customs UK~Documentary
@@ -2788,6 +2815,9 @@
 6|Dexter~Drama
 6|Diagnosis Murder~Drama
 6|Dickinson's Real Deal~Interests
+6|Die Trying~Documentary
+6|Dietbusters~Health
+6|Dino Stampede~Nature
 6|Dirty Jobs~Documentary
 6|Disaster House~Lifestyle
 6|Discovery Atlas~Nature
@@ -2795,6 +2825,7 @@
 6|Dispatches~Documentary
 6|Divorce Court~Reality
 6|Do We Really Need the Moon?~Documentary
+6|Do or Die~Nature
 6|Do the Green Thing~Nature
 6|Doctor Who Confidential~Entertainment
 6|Doctors~Soap
@@ -2813,6 +2844,8 @@
 6|Dream Homes~Interests
 6|Dreamboats~Interests
 6|Drug Wars: DEA~Documentary
+6|Drugs Inc~Documentary
+6|Drunken States of America~Documentary
 6|Dudesons in America~Sport
 6|Dumb and Dumber To Special~Entertainment
 6|E! Entertainment Specials~Entertainment
@@ -2825,6 +2858,8 @@
 6|Earthsea~Documentary
 6|EastEnders~Soap
 6|Eco-Tech~Documentary
+6|Edge of Alaska~Documentary
+6|Edward VIII: The Plot to Topple a King~Documentary
 6|El Alamein: Bond of Honour~History
 6|Elizabeth I's War on Terror~Documentary
 6|Elvis Has Just Left the Building~Game show
@@ -2850,6 +2885,7 @@
 6|Exposure~Documentary
 6|Extraordinary People~Documentary
 6|Extreme A&E~Health
+6|Extreme Bodies~Documentary
 6|Extreme Close-Up~Documentary
 6|Extreme Engineering~Science
 6|Extreme Makeover UK~Interests
@@ -2862,7 +2898,7 @@
 6|Fantasy Homes By The Sea~Interests
 6|Far Flung Floyd~Lifestyle
 6|Fashion Police~Interests
-6|Fast 'n' Loud~Interests
+6|Fast N' Loud~Interests
 6|Fat Doctor~Documentary
 6|Father Ted~Sitcom
 6|Film File~Entertainment
@@ -2882,6 +2918,8 @@
 6|Flog It!~Interests
 6|Flowers Uncut with Jeff Leatham~Interests
 6|Flying Through Time~Documentary
+6|Food Factory~Food
+6|Food: Gastro Lab~Food
 6|Football Icon~Documentary
 6|Football's Next Star~Documentary
 6|Football~Sport
@@ -2926,6 +2964,7 @@
 6|Go Fishing~Interests
 6|Gok's Fashion Fix~Interests
 6|Gold Divers~Documentary
+6|Gold Rush South America~Documentary
 6|Gold Rush~Documentary
 6|Golden Globes Award Shows~Entertainment
 6|Gossip Girl~Entertainment
@@ -2951,17 +2990,22 @@
 6|Grumpy Old Men~Entertainment
 6|Guess the Christmas Year~Music
 6|Guilty Half Hours~Entertainment
+6|Guin and the Dragon~Childrens
+6|Gutted~Lifestyle
 6|Gypsy Life~Documentary
 6|H2O: Just Add Water~Children
 6|HARDtalk~Discussion/Debate
+6|Half Ton World~Health
 6|Hamish & Andy's Euro Gap Year~Entertainment
 6|Happy Little Mixmas~Music
+6|Hard Time~Documentary
 6|Haunted Homes~Entertainment
 6|Have I Got News for You~Game show
 6|Have I Got a Bit More News for You~Game show
 6|Haven~Sci-fi
 6|Hay Sessions~Entertainment
 6|Heir Hunters~Interests
+6|Helicopter Heroes Down Under~Documentary
 6|Helicopter Heroes~Documentary
 6|Helicopter Rescue~Interests
 6|Hell on Wheels~Drama
@@ -2976,8 +3020,10 @@
 6|Hitler's Generals~Documentary
 6|Hitler's Gold~Documentary
 6|Hoarding: Buried Alive~Interests
+6|Hogan's Heroes~Sitcom
 6|Holiday Showdown~Entertainment
 6|Holly's World~Entertainment
+6|Hollywood Hillbillies~Reality
 6|Hollywood Hillbillies~Reality
 6|Hollywood: Singing and Dancing~Music
 6|Holmes Inspection~Interests
@@ -3027,6 +3073,7 @@
 6|ITV2 Nightscreen~Entertainment
 6|ITV3 Nightscreen~Entertainment
 6|ITV4 Nightscreen~Entertainment
+6|Ice Age Giants~Nature
 6|Iconoclasts~Music and Arts
 6|If You Really Knew Me~Documentary
 6|Imagine...~Documentary
@@ -3042,6 +3089,7 @@
 6|Industrial Revelations~Documentary
 6|Inner City World Cup~Reality
 6|Inside Nature's Giants~Nature
+6|Inside RAF Brize Norton~Documentary
 6|Inside Spearmint Rhino~Reality
 6|Inside West Coast Customs~Interests
 6|Inside the Actors Studio~Entertainment
@@ -3049,12 +3097,13 @@
 6|Instruments of Death~Documentary
 6|International Terrorism Since 1945~Documentary
 6|Intimate Portrait~Entertainment
+6|Into the Woods: Stage to Screen~Entertainment
 6|Inventing History~Documentary
 6|Invention Nation~Documentary
 6|Inventions That Shook the World~Documentary
 6|Investigation X~Documentary
 6|Is It True?~Documentary
-6|Issues with my Tissues~Documentary
+6|Issues with My Tissues~Documentary
 6|It's Christmaaas With Noddy Holder!~Music
 6|It's Me Or The Dog~Interests
 6|Jack and the Beanstalk~Entertainment
@@ -3072,8 +3121,10 @@
 6|Jesse~Religion
 6|John Edward: Cross Country~Entertainment
 6|John Nettles' Westcountry~Documentary
+6|Jon and Kate Plus 8~Reality
 6|Journey to the Planets~Documentary
 6|Judge Judy~Entertainment
+6|Judge Rinder~Reality
 6|Junior Apprentice~Documentary
 6|Junior MasterChef~Food
 6|Jurassica~Documentary
@@ -3083,8 +3134,11 @@
 6|Katie: My Beautiful Friends~Documentary
 6|Katy Brand vs~Comedy
 6|Keeping Up with the Joneses~Reality
+6|Keeping Up with the Joneses~Reality
+6|Keeping Up with the Kardashians~Reality
 6|Keeping Up with the Kardashians~Reality
 6|Keith Lemon's Very Brilliant World Tour~Comedy
+6|Khloe and Lamar~Reality
 6|Khloe and Lamar~Reality
 6|Kid in a Candy Store~Food
 6|Kids' Hospital~Documentary
@@ -3098,6 +3152,8 @@
 6|Kirstie's Vintage Home~Interests
 6|Kites~Documentary
 6|Kourtney and Kim Take Miami~Reality
+6|Kourtney and Kim Take Miami~Reality
+6|Kourtney and Kim Take New York~Reality
 6|Kourtney and Kim Take New York~Reality
 6|Kylie: Cultural Icon~Arts and culture
 6|La Femme Musketeer~Drama
@@ -3112,6 +3168,7 @@
 6|Last Chance Saloon~Health
 6|Last Chance to See~Documentary
 6|Last Man Standing~Entertainment
+6|Laverne Cox Presents: The T Word~Documentary
 6|Law on the Border~Documentary
 6|Led Zeppelin~Music and Arts
 6|Legends~Documentary
@@ -3145,6 +3202,7 @@
 6|Lost City Raiders~Film
 6|Lost Land of the Tiger~Nature
 6|Lost in the Woods~Interests
+6|Love the Place You're In: 48 Hours~Property
 6|Lovejoy~Drama
 6|Loving It! Jamelia's 20 Movie Hits~Music
 6|Luke Nguyen's Memories of Vietnam~Food
@@ -3157,6 +3215,7 @@
 6|MTV World Stage~Music and Arts
 6|Magnificent Obsessions~Interests
 6|Make Do & Mend~Interests
+6|Making Art Work: First Idea to Final Piece~Arts
 6|Malcolm in the Middle~Sitcom
 6|Man Made Marvels China~Documentary
 6|Maps: Power, Plunder and Possession~Documentary
@@ -3164,6 +3223,7 @@
 6|Maria Callas: Life and Art~Documentary
 6|Mariella's Book Show~Arts and culture
 6|Mark Lawson Talks to...~Arts and culture
+6|Married to Jonas~Reality
 6|Married to Jonas~Reality
 6|Martha, Meals and Malawi~Documentary
 6|Martin Clunes: Islands of Britain~Interests
@@ -3212,6 +3272,7 @@
 6|Monster Fish of the Amazon~Documentary
 6|Monster Jam~Sport
 6|Monster Quake: Will We Survive?~Documentary
+6|Monsters & Mysteries~Interests
 6|Monsters Inside Me~Documentary
 6|Moonshiners~Documentary
 6|More Than Food on the Table~Drama
@@ -3229,6 +3290,7 @@
 6|My Big F****** Wedding~Reality
 6|My Brilliant Moment~Interests
 6|My Family Feast~Interests
+6|My Ghost Story~Interests
 6|My Greek Kitchen~Food
 6|My Green House~Current affairs
 6|My Life~Children
@@ -3238,6 +3300,7 @@
 6|My Story~Music
 6|My Super Sweet 16 UK~Documentary
 6|My Super Sweet 16~Documentary
+6|Mysteries of the Shark Coast~Documentary
 6|Mystery Diagnosis~Documentary
 6|Mystery Hunters~Childrens
 6|Mystery Investigator: Olly Steeds~Interests
@@ -3249,6 +3312,7 @@
 6|Narrow Boat Afloat~Documentary
 6|Nasa's Unexplained Files~Documentary
 6|Nation's Best Am Dram~Arts
+6|National Treasures of Wales~Documentary
 6|Natural World~Nature
 6|Nature Shock~Nature
 6|Nature's Fury~Documentary
@@ -3280,7 +3344,6 @@
 6|Oceans~Documentary
 6|Off the Rails~Interests
 6|Off the Road~Documentary
-6|Official 40 Bestselling Singles Of 2013~Music
 6|Official Top 20~Music
 6|Official Top 40 Singles Of 2014~Music
 6|Official Top 40 Singles Of 2014~Music
@@ -3294,6 +3357,7 @@
 6|On the Fly with John Bailey~Interests
 6|One Born Every Minute~Documentary
 6|One Car Too Far~Interests
+6|One Night in Hell~Animation
 6|Onion News Network~Comedy
 6|Only Connect~Game show
 6|Open House~Interests
@@ -3315,6 +3379,7 @@
 6|Party Election Broadcast~Current affairs
 6|Party Political Broadcast~Current affairs
 6|Passport Patrol~Documentary
+6|Paternity Court~Reality
 6|Paul Martin's Handmade Revolution~Interests
 6|Paul Merton's China~Travel
 6|Pawn 90210~Drama
@@ -3335,6 +3400,7 @@
 6|Playhouse Presents~Arts
 6|Pleasure Zone~Interests
 6|Poems on the Underground~Music and Arts
+6|Poet on the Frontline~Arts
 6|Points of View~Entertainment
 6|Points of View~Entertainment
 6|Police 10/7~Documentary
@@ -3371,6 +3437,7 @@
 6|Questions and Statements~Current affairs
 6|RPM Motorsport~Sport
 6|Raging Planet~Documentary
+6|Railways of the Great War with Michael Portillo~Travel
 6|Raising the Roof~Interests
 6|Random Acts~Drama
 6|Rawhide~Drama
@@ -3396,12 +3463,14 @@
 6|Return to the Bermuda Triangle~Documentary
 6|Revealed~Documentary
 6|Review 2014~Current affairs
-6|Rev~Comedy
+6|Rev~Sitcom
 6|Rhod Gilbert: The Man with the Flaming Battenberg Tattoo~Comedy
 6|Rich Hall's Fishing Show~Comedy
 6|Rich, Russian and Living in London~Documentary
 6|Richard Bacon Meets Alex Salmond~Current affairs
 6|Richard Bacon Meets Ieuan Wyn Jones~Current affairs
+6|Richard Hammond Builds a Planet~Documentary
+6|Richard Hammond Builds a Universe~Documentary
 6|Richard Hammond and the Holy Grail~Documentary
 6|Richard Hammond's Engineering Connections~Interests
 6|Rip Off Britain~Current affairs
@@ -3448,6 +3517,7 @@
 6|Russell Brand: End the Drugs War~Documentary
 6|Russell Howard's Good News~Comedy
 6|Russia's Imperialist Warriors~Current affairs
+6|Ruud Gullit Special~Sport
 6|SAS Survival Secrets~Documentary
 6|Salmon Run with Jack Charlton~Sport
 6|Salvage Hunters~Interests
@@ -3455,6 +3525,7 @@
 6|Sam Bailey's Power Of Love~Music
 6|Samuel L Jackson~Documentary
 6|Saturday Kitchen~Food
+6|Savage Family Diggers~Interests
 6|Saved for the Nation~Documentary
 6|Saville Report Statement~News and current affairs
 6|Scandalicious~Documentary
@@ -3463,6 +3534,8 @@
 6|Sci-Fi Saved My Life~Science
 6|Sci-Fi Science~Science
 6|Sci-Trek~Documentary
+6|Science and Technology Committee~Current affairs
+6|Science of Stupid~Entertainment
 6|Science of the Harvest~Documentary
 6|Science of the Impossible~Documentary
 6|Scottish Parliament~Current affairs
@@ -3472,6 +3545,7 @@
 6|Seaside Rescue~Documentary
 6|Secondary Schools~Education
 6|Secret Documentary~Documentary
+6|Secret Eaters~Health
 6|Secret Science of the Secret Service~Documentary
 6|Secrets Beneath the Ice~Documentary
 6|Secrets of Sex~Documentary
@@ -3496,6 +3570,7 @@
 6|Shark Tank~Entertainment
 6|She Stoops to Conquer~Drama
 6|Shedding for the Wedding~Reality
+6|Shedding for the Wedding~Reality
 6|Sherlock Holmes~Drama
 6|Shipwrecked~Entertainment
 6|Shocking Story~Documentary
@@ -3506,8 +3581,10 @@
 6|Shooting...Cheryl Cole!~Music
 6|Shops, Robbers and Videotape~Documentary
 6|Shortlist~Entertainment
+6|Singapore 1942: End of Empire~History
 6|Sinkholes: Swallowed Alive~Documentary
 6|Situation Critical~Science
+6|Sleeping with the Family~Reality
 6|Sleeping with the Family~Reality
 6|Slum Survivors~Documentary
 6|Smash Lab~Documentary
@@ -3533,11 +3610,13 @@
 6|Sportscenter~Sport
 6|Sportsday~Sport
 6|Springwatch~Documentary
+6|Stalked~Reality
 6|Star Trek: The Next Generation~Sci-fi
 6|Stargazing Live: Back to Earth~Science
 6|Starlings~Comedy
 6|Stem Cell Universe with Stephen Hawking~Science
 6|Stephen Fry on Wagner~Documentary
+6|Stephen Hawking's Science of the Future~Science
 6|Stephen Hawking's Universe~Science
 6|Storage Hunters~Reality
 6|Storage Wars Canada~Entertainment
@@ -3547,6 +3626,7 @@
 6|Storms of War~Documentary
 6|Storytellers~Music
 6|Storyville~Documentary
+6|Street Genius~Game show
 6|Strictly Come Dancing: It Takes Two~Entertainment
 6|Strictly Come Dancing: The Results~Entertainment
 6|Strictly Come Dancing~Entertainment
@@ -3560,6 +3640,7 @@
 6|Sunrise Earth International~Documentary
 6|Sunrise Earth~Documentary
 6|Sunset Daze~Reality
+6|Sunset Daze~Reality
 6|Super Structures~Documentary
 6|Super Vets~Documentary
 6|SuperCasino~Game show
@@ -3567,11 +3648,14 @@
 6|Superhuman~Documentary
 6|Supermodels~Interests
 6|Surveillance Oz~Documentary
+6|Surviving the Holocaust: Freddie Knoller's War~Documentary
+6|Survivors: Nature's Indestructible Creatures~Nature
 6|Swamp Wars~Entertainment
 6|T4 Movie Special~Entertainment
 6|THS~Arts and culture
 6|TV Stars Take On Christmas~Entertainment
 6|Tales from the Country~Interests
+6|Tales from the Royal Bedchamber~Documentary
 6|Talking Business with Linda Yueh~Current affairs
 6|Talking Movies~Interests
 6|Tarzan: The Epic Adventures~Drama
@@ -3585,7 +3669,7 @@
 6|Ten Weeks in Costa Rica~Documentary
 6|Tenko Reunion~Drama
 6|Tenko~Drama
-6|Terry and June~Comedy
+6|Terry and June~Sitcom
 6|Test Pilots~Documentary
 6|Testees~Sitcom
 6|The 100 Greatest Christmas Moments~Entertainment
@@ -3663,6 +3747,7 @@
 6|The Gadget Show~Entertainment
 6|The Garage~Documentary
 6|The Genius of David Bowie~Music
+6|The Glencoe Massacre~History
 6|The Golden Age of Canals~Documentary
 6|The Golden Rules of TV~Entertainment
 6|The Good Guys~Comedy
@@ -3678,6 +3763,7 @@
 6|The High Chaparral~Drama
 6|The Highlanders' War~Documentary
 6|The Hills~Documentary
+6|The Hoarder Next Door~Lifestyle
 6|The Hot Desk~Talk show
 6|The Hotel Inspector~Documentary
 6|The House John Re-Built~Interests
@@ -3738,6 +3824,7 @@
 6|The Secret Millionaire~Documentary
 6|The Secret Tourist~Documentary
 6|The Secrets of Everything~Documentary
+6|The Silver Pharaoh Mystery~Documentary
 6|The Simpsons~Animation
 6|The Six Wives of Henry VIII~Documentary
 6|The Sound of Musicals~Entertainment
@@ -3774,6 +3861,8 @@
 6|The Wonder of Britain~Documentary
 6|The World Sheep Dog Trials~Nature
 6|The World Today~News and current affairs
+6|The World's Best Diet~Health
+6|The World's Deadliest Storms~Nature
 6|The World's Greatest Gambling Scams~Entertainment
 6|The World's Most Extreme~Documentary
 6|The X Factor USA~Entertainment
@@ -3833,6 +3922,7 @@
 6|Total Wipeout~Game show
 6|Total Wrecklamation~Lifestyle
 6|Totally Bonkers Guinness World Records~Entertainment
+6|Tough Young Teachers~Documentary
 6|Toughest Place to Be a...~Documentary
 6|Tourettes on the Job~Interests
 6|Traffic Cops~Documentary
@@ -3850,8 +3940,9 @@
 6|Tuesday in Parliament~Current affairs
 6|Turbo Pickers~Interests
 6|Turning Point~Reality
-6|Two Guys, a Girl and a Pizza Place~Comedy
+6|Two Guys, a Girl and a Pizza Place~Sitcom
 6|Two Minute Silence~Current affairs
+6|UFOs Declassified~Interests
 6|UFOs: The Untold Stories~Documentary
 6|UK's Toughest Jobs~Documentary
 6|UKHot40 Big Beats Chart~Music
@@ -3868,6 +3959,7 @@
 6|University Challenge~Game show
 6|Untold Stories of the ER~Documentary
 6|Untold Stories~Current affairs
+6|Untold with Maria Menounos~Entertainment
 6|Up All Night~Comedy
 6|Up In Smoke~Current affairs
 6|VH1 News Presents~Music
@@ -3894,12 +3986,16 @@
 6|We Love Olly Murs!~Music
 6|Weapon Masters~Documentary
 6|Weather~News and current affairs
+6|Wedding Disaster Specials~Reality
 6|Wednesday in Parliament~Current affairs
+6|Weekend Warriors~Interests
+6|Weight Matters~Health
 6|Weird Travels~Documentary
 6|Weird or What?~Documentary
 6|Westminster Hall~Current affairs
 6|Wet Nets~Interests
 6|What Do Artists Do All Day?~Documentary
+6|What Happened Next?~Documentary
 6|What Makes a Great Soprano?~Documentary
 6|What Makes a Great Tenor?~Documentary
 6|What Not to Wear~Interests
@@ -3924,8 +4020,12 @@
 6|Wildest Arctic~Nature
 6|Wildest India~Nature
 6|Will It Snow?~Documentary
+6|Winston Churchill: A Giant of the Century~Documentary
+6|Winterwatch Unsprung~Nature
+6|Winterwatch~Nature
 6|Witness~Documentary
 6|Wonders of the Monsoon~Nature
+6|Work and Pensions Committee~Current affairs
 6|Working Lives~Current affairs
 6|World Business Report~Current affairs
 6|World Cup Highlights~Sport
@@ -3942,6 +4042,7 @@
 6|World's Weirdest Restaurants~Entertainment
 6|World's Wildest Police Videos~Documentary
 6|World's Worst Mom~Documentary
+6|World's Worst Tenants~Property
 6|Would I Lie to You?~Game show
 6|Wrecks to Riches USA~Interests
 6|Wrecks to Riches~Interests
@@ -4118,6 +4219,7 @@
 7|Buffy the Vampire Slayer~What's My Line? 2~What's My Line? (Part 2)
 7|CSI: Crime Scene Investigation~CSI: Homecoming: Homecoming~Homecoming
 7|CSI: Crime Scene Investigation~CSI: The Last Days of Jim Brass: Dead in His Tracks~Dead in His Tracks
+7|CSI: Crime Scene Investigation~CSI: Last Days of Jim Brass: Dead in His Tracks~Dead in His Tracks
 7|CSI: Crime Scene Investigation~CSI: Vegas Meets New York - Part One: In Vino Veritas~In Vino Veritas
 7|CSI: Miami~CSI Trilogy: One of Our Own~One of Our Own
 7|CSI: Miami~CSI Trilogy: Rampage~Rampage
@@ -4134,25 +4236,11 @@
 7|Celebrity Come Dine with Me~Come Dine with Me: Rugby World Cup Special~Rugby World Cup Special
 7|Celebrity Fifteen to One~Celebrity Fifteen to One Christmas Special~Christmas Special
 7|Celebrity MasterChef~Celebrity MasterChef Goes Large~
-7|Channel 4 Racing Highlights~Royal Ascot Highlights: 2014 Day Five~Royal Ascot: 2014 Day Five
-7|Channel 4 Racing Highlights~Royal Ascot Highlights: 2014 Day Four~Royal Ascot: 2014 Day Four
-7|Channel 4 Racing Highlights~Royal Ascot Highlights: 2014 Day One~Royal Ascot: 2014 Day One
-7|Channel 4 Racing Highlights~Royal Ascot Highlights: 2014 Day Three~Royal Ascot: 2014 Day Three
-7|Channel 4 Racing Highlights~Royal Ascot Highlights: 2014 Day Two~Royal Ascot: 2014 Day Two
-7|Channel 4 Racing~Cheltenham Festival: Channel 4 Racing: Day Four~Cheltenham Festival: Day Four
-7|Channel 4 Racing~Cheltenham Festival: Channel 4 Racing: Day One~Cheltenham Festival: Day One
-7|Channel 4 Racing~Cheltenham Festival: Channel 4 Racing: Day Three~Cheltenham Festival: Day Three
-7|Channel 4 Racing~Cheltenham Festival: Channel 4 Racing: Day Two~Cheltenham Festival: Day Two
-7|Channel 4 Racing~Royal Ascot: Channel 4 Racing: 2014 Day Five~Royal Ascot: 2014 Day Five
-7|Channel 4 Racing~Royal Ascot: Channel 4 Racing: 2014 Day Four~Royal Ascot: 2014 Day Four
-7|Channel 4 Racing~Royal Ascot: Channel 4 Racing: 2014 Day One~Royal Ascot: 2014 Day One
-7|Channel 4 Racing~Royal Ascot: Channel 4 Racing: 2014 Day Three~Royal Ascot: 2014 Day Three
-7|Channel 4 Racing~Royal Ascot: Channel 4 Racing: 2014 Day Two~Royal Ascot: 2014 Day Two
-7|Channel 4's Comedy Gala~Channel 4's Comedy Gala 2014~2014
 7|Cirque du Soleil~Cirque du Soleill: Flow~Flow
 7|Class Clips~Secondary Schools: Creative and Media - Media~Creative and Media - Media
 7|Classic Albums~Classic Albums Special: Black Sabbath - Paranoid~Black Sabbath: Paranoid
-7|Classic Albums~Classic Albums Special: John Lennon/Plastic Ono Band~Jonn Lennon: John Lennon/Plastic Ono Band
+7|Classic Albums~Classic Albums Special: Frank Zappa~Frank Zappa
+7|Classic Albums~Classic Albums Special: John Lennon/Plastic Ono Band~John Lennon: John Lennon/Plastic Ono Band
 7|Classic Albums~Cream - Disraeli Gears~Cream: Disraeli Gears
 7|Classic Albums~Deep Purple - Machine Head~Deep Purple: Machine Head
 7|Classic Albums~Def Leppard - Hysteria~Def Leppard: Hysteria
@@ -4160,6 +4248,7 @@
 7|Classic Albums~Fleetwood Mac - Rumours~Fleetwood Mac: Rumours
 7|Classic Albums~Iron Maiden - The Number of the Beast~Iron Maiden: The Number of the Beast
 7|Classic Albums~Jimi Hendrix - Electric Ladyland~Jimi Hendrix: Electric Ladyland
+7|Classic Albums~Motorhead - Ace of Spades~Motorhead: Ace of Spades
 7|Classic Albums~Nirvana - Nevermind~Nirvana: Nevermind
 7|Classic Albums~Phil Collins - Face Value~Phil Collins: Face Value
 7|Classic Albums~Rush - 2112 Moving Pictures~Rush: 2112 Moving Pictures
@@ -4192,22 +4281,6 @@
 7|Cowboy Builders~New Cowboy Builders: Fleet~Fleet
 7|Cowboy Builders~New Cowboy Builders: St Albans~St Albans
 7|Cuckoo~Cuckoo Christmas Special~Christmas Special
-7|Cycling~2013 Tour of Britain: Stage Eight~Tour of Britain: 2013 Stage Eight
-7|Cycling~2013 Tour of Britain: Stage Five~Tour of Britain: 2013 Stage Five
-7|Cycling~2013 Tour of Britain: Stage Four~Tour of Britain: 2013 Stage Four
-7|Cycling~2013 Tour of Britain: Stage One~Tour of Britain: 2013 Stage One
-7|Cycling~2013 Tour of Britain: Stage Seven~Tour of Britain: 2013 Stage Seven
-7|Cycling~2013 Tour of Britain: Stage Six~Tour of Britain: 2013 Stage Six
-7|Cycling~2013 Tour of Britain: Stage Three~Tour of Britain: 2013 Stage Three
-7|Cycling~2013 Tour of Britain: Stage Two~Tour of Britain: 2013 Stage Two
-7|Cycling~2013/14 Tirreno-Adriatico: Stage Four~2014 Tirreno-Adriatico: Stage Four
-7|Cycling~Tour de France: Cycling: Tour de France Classics: 2012 Stage 12~Tour de France Classics
-7|Cycling~Tour de France: Cycling: Tour de France Classics: 2012 Stage Seven~Tour de France Classics
-7|Cycling~Tour de France: Cycling: Tour de France Classics: 2013 Stage 13~Tour de France Classics
-7|Cycling~Tour de France: Cycling: Tour de France Classics: 2013 Stage 15~Tour de France Classics
-7|Cycling~Tour de France: Cycling: Tour de France Classics: 2013 Stage 18~Tour de France Classics
-7|Cycling~Tour de France: Cycling: Tour de France Classics~Tour de France Classics
-7|Cycling~Tour de France: Tour de France 2013 Highlights: 2013 Review~Tour de France 2013 Review
 7|DIY SOS~DIY SOS Special - Tour de France: Tour de Force - France Special~Tour de Force: France Special
 7|Dance, Dance, Dance~Dance Dance Dance: Ghost Tracks~Ghost Tracks
 7|Dani's House~Dani's House Christmas Special: Scrooge Tube~Christmas Special: Scrooge Tube
@@ -4237,8 +4310,6 @@
 7|Emergency Bikers~New Emergency Bikers~
 7|Everybody's Talking About~Everyone's Talking About - Top 10~Top 10
 7|Everyone's Talking About~Everyone's Talking About - Top Ten~Top 10
-7|FIA GT~FIA GT Series: 2013 Round Six: Baku~2013 Round Six: Baku
-7|FIA GT~FIA GT Series: 2013 Season Review~2013 Season Review
 7|Family Guy~Peter Griffin - Husband, Father, Brother?~Peter Griffin: Husband, Father, Brother?
 7|Fast N' Loud~Ferrari Fix - Part One/Dead Head Bus~Ferrari Fix (Part One)/Dead Head Bus
 7|Fast N' Loud~Ferrari Fix - Part Two/1917 REO~Ferrari Fix (Part Two)/1917 REO
@@ -4286,7 +4357,6 @@
 7|George Clarke's Amazing Spaces~George Clarke's Amazing Spaces at Christmas~Christmas
 7|Ghost Adventures~Ghost Adventures Special: Post-Mortem~Post-Mortem
 7|Girls of the Playboy Mansion~Bedtime Stories: The Best Of~Bedtime Stories
-7|Glastonbury 2013~Glastonbury: Seasick Steve~Seasick Steve
 7|Gold Rush~Gold Rush Special: After the Rush~After the Rush
 7|Gold Rush~Gold Rush Special: Behind the Scenes~Behind the Scenes
 7|Gold Rush~Gold Rush Special: The Off Season~The Off Season
@@ -4364,7 +4434,6 @@
 7|I'm a Celebrity... Get Me Out of Here!~I'm a Celebrity: Best Trials Ever~Best Trials Ever
 7|Imagine...~Beyonce: Life Is But a Dream - An Imagine Special~Beyonce: Life Is But a Dream
 7|Imagine...~Doris Lessing - The Reluctant Heroine~Doris Lessing: The Reluctant Heroine
-7|Inside Hollywood~Inside Hollywood 2013~
 7|Inside Nature's Giants~Baboon~Rogue Baboon
 7|Inside Nature's Giants~Giant Squid: Inside Nature's Giants Special~Giant Squid
 7|Inside Nature's Giants~Polar Bear: Inside Nature's Giants Special~Polar Bear
@@ -4376,8 +4445,6 @@
 7|Inside~Inside Waking the Dead~Waking the Dead
 7|Investigation X~Comet Impact: Investigation X: Comet Impact~Comet Impact
 7|Investigation X~UFO Outbreak: Investigation X: UFO Outbreak~UFO Outbreak
-7|Ironman~Ironman Wales: 2014~Wales 2014
-7|Isle of Wight Festival 2012~Isle of Wight Festival 2012 Highlights~Highlights
 7|It'll Be Alright on the Night~All New It'll Be Alright on the Night~
 7|It'll Be Alright on the Night~It'll Be Alright on the Night's Best of the Worst~Best of the Worst
 7|James May's Man Lab~James May's Man Lab Xmas Special~Xmas Special
@@ -4415,8 +4482,6 @@
 7|Lie to Me~Best of Lie to Me: Veronica~Veronica
 7|Life's Too Short~Life's Too Short Special~
 7|Life~Hunters & Hunted~Hunters and Hunted
-7|Live Cycling~2013/14 Paris-Nice: Stage Eight~2014 Paris-Nice: Stage Eight
-7|Live Cycling~2013/14 Tirreno-Adriatico: Stage Five~2014 Tirreno-Adriatico: Stage Five
 7|Live Rugby League World Cup~Live Rugby League World Cup Final~Final
 7|Live UEFA Champions League~Live UEFA Champions League Final~Final
 7|Lost~There's No Place Like Home - Part Three~There's No Place Like Home (Part 3)
@@ -4432,7 +4497,6 @@
 7|Mariella's Book Show~The Book Show: Murakami~Murakami
 7|MasterChef: The Professionals~MasterChef the Professionals: Michel's Classics: Classics 2~Michel's Classics: Classics 2
 7|MasterChef: The Professionals~MasterChef: The Professionals Uncovered~Uncovered
-7|Match of the Day~MOTD - World Cup 2014 Draw~World Cup 2014 Draw
 7|Maternity Ward~Best of Maternity Ward: Reviving Hope~Reviving Hope
 7|Maternity Ward~Best of Maternity Ward: Tiny Victory~Tiny Victory
 7|Maternity Ward~Best of Maternity Ward: Tough Choices~Tough Choices
@@ -4500,6 +4564,7 @@
 7|NCIS: Los Angeles~Best of NCIS: Los Angeles: Human Traffic~Human Traffic
 7|NCIS: Los Angeles~Best of NCIS: Los Angeles: Special Delivery~Special Delivery
 7|NCIS: Los Angeles~Best of NCIS: Los Angeles: Standoff~Standoff
+7|NCIS~The NCIS Movie: War on Terror: Engaged - Parts One and Two~Engaged: Parts 1 and 2
 7|NFL~The American Football Show: The American Football Show: The Playoffs~The American Football Show: The Playoffs
 7|Natural World~A Wolf Called Storm: Natural World Special~A Wolf Called Storm
 7|Natural World~Britain's Natural World - A Highland Haven~Britain's Natural World: A Highland Haven
@@ -4586,6 +4651,7 @@
 7|Peter Andre: My Life~Peter Andre: My Life at Christmas~My Life at Christmas
 7|Pointless Celebrities~Pointless Celebrities Children in Need~Children in Need
 7|Pointless Celebrities~Pointless Celebrities Winter Special~Winter Special
+7|Portrait Artist of the Year~Portrait Artist of the Year 2013: Glasgow~2013: Glasgow
 7|Portrait Artist of the Year~Portrait Artist of the Year 2013: London~2013: London
 7|Portrait Artist of the Year~Portrait Artist of the Year 2014~2014
 7|Postman Pat~Postman Pat Special: Postman Pat's Pirate Treasure~Postman Pat's Pirate Treasure
@@ -4709,8 +4775,6 @@
 7|Strip the City~Harbour City - Sydney~4/6, series 1 - Harbour City: Sydney
 7|Strip the City~Ice City - Toronto~5/6, series 1 - Ice City: Toronto
 7|Strip the City~Underground City - London~6/6, series 1 - Underground City: London
-7|Sunday Morning Live~Sunday Morning Live 2013~
-7|SuperScrimpers~SuperScrimpers 2013 Resolutions~2013 Resolutions
 7|Surviving~with Chris Terrill: Surviving the Desert with Chris Terrill~Surviving the Desert with Chris Terrill
 7|TOTP2~TOTP2 Donna Summer~Donna Summer
 7|TOTP2~Top of the Pops 2: Bee Gees Special~Bee Gees Special
@@ -4725,7 +4789,6 @@
 7|Teen Mom 2~Check up with Dr. Drew: Finale Special: Check Up with Dr. Drew (Part 1)~Check Up with Dr. Drew (Part 1)
 7|Teen Mom~Teen Mom Special: Amber Behind Bars~Amber Behind Bars
 7|Teen Mom~Teen Mom Special: Ask the Teen Moms~Ask the Teen Moms
-7|Tennis from Eastbourne~2014 AEGON International: Final~2014 Aegon International: Final
 7|The Album Chart Show~Matt Cardle: The Album Chart Show Special: Matt Cardle Special~Matt Cardle Special
 7|The BAFTA and BFI Lectures~Screenwriters : Frank Cottrell Boyce~Screenwriters: Frank Cottrell Boyce
 7|The Best of Ed Sullivan~Terry Wogan Presents The Very Best of the Ed Sullivan Show - Christmas Special~Christmas Special
@@ -4775,27 +4838,19 @@
 7|The Killing~The Killing III~
 7|The Killing~The Killing II~
 7|The Long March to Freedom~The Long March to Freedom 1~Part 1
-7|The Morning Line~Royal Ascot: The Morning Line: 2014 Day Five~Royal Ascot: 2014 Day Five
-7|The Morning Line~Royal Ascot: The Morning Line: 2014 Day Four~Royal Ascot: 2014 Day Four
-7|The Morning Line~Royal Ascot: The Morning Line: 2014 Day One~Royal Ascot: 2014 Day One
-7|The Morning Line~Royal Ascot: The Morning Line: 2014 Day Three~Royal Ascot: 2014 Day Three
-7|The Morning Line~Royal Ascot: The Morning Line: 2014 Day Two~Royal Ascot: 2014 Day Two
 7|The New Yankee Workshop~Breakfront Cabinet~13/13, series 12 - Breakfront Cabinet
 7|The New Yankee Workshop~English Server~10/13, series 12 - English Server
 7|The New Yankee Workshop~Table Saw Part 1~8/13, series 19 - Table Saw 101 (Part 1)
 7|The New Yankee Workshop~Table Saw Part 2~9/13, series 19 - Table Saw 101 (Part 2)
 7|The Real Hustle: Celebrity Chancers~The Real Hustle: Busted~Busted
+7|The Return of Sherlock Holmes~Sherlock Holmes: The Sign of Four~The Sign of Four
 7|The Review Show~The Review Show Oscars Special~Oscars Special
 7|The Review Show~The Review Show Special: Man Booker Award~Man Booker Award
 7|The Review Show~The Review Show at the Edinburgh Festival~Edinburgh Festival
 7|The Rob Brydon Show~The Rob Brydon Show Xmas Special~Xmas Special
-7|The Roux Scholarship~The Roux Scholarship 2012~2012
 7|The Royal Institution Christmas Lectures~RI Lectures: Sparks Will Fly: How to Hack Your Home: A New Revolution~Sparks Will Fly: How to Hack Your Home: A New Revolution
 7|The Royal Institution Christmas Lectures~RI Lectures: Sparks Will Fly: How to Hack Your Home: Making Contact~Sparks Will Fly: How to Hack Your Home: Making Contact
 7|The Royal Institution Christmas Lectures~RI Lectures: Sparks Will Fly: How to Hack Your Home: The Light Bulb Moment~Sparks Will Fly: How to Hack Your Home: The Light Bulb Moment
-7|The Royal Institution Christmas Lectures~Royal Institution Christmas Lectures 2013: Life Fantastic: Am I a Mutant?~Life Fantastic: Am I a Mutant?
-7|The Royal Institution Christmas Lectures~Royal Institution Christmas Lectures 2013: Life Fantastic: Could I Live Forever?~Life Fantastic: Could I Live Forever?
-7|The Royal Institution Christmas Lectures~Royal Institution Christmas Lectures 2013: Life Fantastic: Where Do I Come From?~Life Fantastic: Where Do I Come From?
 7|The Royle Family~The Royle Family Christmas Special: Barbara's Old Ring~Christmas Special: Barbara's Old Ring
 7|The Sarah Millican Television Programme~The Best of The Sarah Millican Television Programme: Vol 1~Best of: Vol 1
 7|The Sarah Millican Television Programme~The Best of The Sarah Millican Television Programme: Vol 2~Best of: Vol 2
@@ -4818,7 +4873,6 @@
 7|The South Bank Show~Damien Hurst: Addicted to Art~Damien Hirst: Addicted to Art
 7|The Thick of It~The Thick of It Special: Spinners and Losers~Spinners and Losers
 7|The Thick of It~The Thick of It Special: The Rise of the Nutters~The Rise of the Nutters
-7|The Top Ten Show~The Top Ten Show 2013~
 7|The True Story~Master and Commander: The True Story: Master and Commander~Master and Commander
 7|The Valleys~The Valleys Most Explosive Episodes~Most Explosive Episodes
 7|The Voice UK~The Voice UK Results~Results
@@ -4986,8 +5040,8 @@
 7|Will and Grace~Fagmalion Part Two: Attack of the Clones~Fagmalion (Part 2): Attack of the Clones
 7|Winter Wipeout~Winter Wipeout Celebrity Special~Celebrity Special
 7|Winter Wipeout~Winter Wipeout Christmas Special~Christmas Special
-7|Winterwatch Unsprung~Winterwatch Unsprung 2014~
-7|Winterwatch~Winterwatch 2014~
+7|Winterwatch Unsprung~Winterwatch Unsprung 2015~
+7|Winterwatch~Winterwatch 2015~
 7|Wonderland~Granny's Moving In: A Wonderland Film~Granny's Moving In
 7|Wonders of Life~Schools: Wonders of Life: Expanding Universe~Expanding Universe
 7|Wonders of Life~Schools: Wonders of Life: What Is Life?~What Is Life?
@@ -5005,6 +5059,7 @@
 7|You've Been Framed!~Totally You've Been Framed!: Series 22 Compilations - Ep 4~Totally You've Been Framed!
 7|You've Been Framed!~You've Been Framed and Famous!: Series 16 Compilations 2~You've Been Framed and Famous!
 7|You've Been Framed!~You've Been Framed and Famous!: Specials (1), Ep 3~You've Been Framed and Famous!
+7|You've Been Framed!~You've Been Framed! Best of the Best~Best of the Best
 7|You've Been Framed!~You've Been Framed! Calendar Special~Calendar Special
 7|You've Been Framed!~You've Been Framed! Christmas Special~Christmas Special
 7|You've Been Framed!~You've Been Framed! Christmas~Christmas Special
@@ -5027,8 +5082,6 @@
 7|You've Been Framed!~You've Been Framed: The Next Generation!: Series 23 Specials, Ep 2~The Next Generation!
 7|You've Been Framed!~You've Been Framed: Top 100 Animals~Top 100 Animals
 7|Zoo Days~Series 3 Ep 3~
-7|iTunes Festival 2013~Rock Night: Queens of the Stone Age - iTunes Festival Special~Queens of the Stone Age
-7|iTunes Festival 2013~iTunes Festival: Robin Thicke Special~Robin Thicke Special
 #
 # One-off title/episode details to be written more consistently
 # Works with original title/episode details seen in source
@@ -5085,18 +5138,14 @@
 8|Best of Total Wipeout~~Total Wipeout~Best of Total Wipeout
 8|Best of Would I Lie to You? (And Unseen Bits)~~Would I Lie to You?~Best of (and Unseen Bits)
 8|Big Brother: Live from the House~Celebrity Big Brother: Live from the House~Celebrity Big Brother~Live from the House
-8|Big In 2013! Justin Timberlake v Robin Thicke~~Big In 2013!~Justin Timberlake v Robin Thicke
-8|Big In 2013! Rudimental v Disclosure~~Big In 2013!~Rudimental v Disclosure
-8|Big In 2013! Taylor Swift v Miley Cyrus~~Big In 2013!~Taylor Swift v Miley Cyrus
-8|Big in 2013! Boys v Girls~~Big In 2013!~Boys v Girls
 8|Blackadder~Blackadder Back and Forth~Blackadder: Back and Forth~
 8|Blackadder~Blackadder's Most Cunning Moments~Blackadder's Most Cunning Moments~
 8|Blackadder~The Whole Rotten Saga~Blackadder: The Whole Rotten Saga~
 8|Blackfish~~Storyville~Blackfish: The Whale that Killed
 8|Blue Peter's Christmas Special~~Blue Peter~Christmas Special
 8|Blue Wild Angel: Jimi Hendrix at the Isle of Wight~~Isle of Wight Festival 1970~Jimi Hendrix: Blue Wild Angel
+8|Boogie Fever: A TOTP2 Disco Special~~TOTP2~Boogie Fever: Disco Special
 8|Brazil v England - 1970 World Cup~~FIFA World Cup Classic Matches~Brazil v England, 1970
-8|British Comedy Awards Nominations Show 2013~~British Comedy Awards 2013~Nominations Show
 8|Buzzcocks: The Doctor Who Special~~Never Mind the Buzzcocks~Doctor Who Special
 8|Cake Boss: Baby Special~~Cake Boss~Baby Special
 8|Cake Boss: Icing on the Cake~~Cake Boss~Icing on the Cake
@@ -5407,6 +5456,7 @@
 8|Katy Brand vs Shakira~~Katy Brand vs~Shakira
 8|Katy Brand vs Sugababes~~Katy Brand vs~Sugababes
 8|Key Stage 4 History Curriculum Bites - International Relations 1919-1939~~Key Stage 4 History Curriculum Bites~International Relations 1919-1939
+8|Killers Behind Bars: The Untold Story~Killers Behind Bars: Steve Wright: The Suffolk Strangler~Killers Behind Bars~Steve Wright: The Suffolk Strangler
 8|Kirstie's Homemade Christmas~Kirstie's Crafty Christmas~Kirstie's Crafty Christmas~
 8|Koko Bop: Christmas Special~~Koko Bop~Christmas Special
 8|Later 250 - with Jools Holland~~Later... with Jools Holland~250th Episode
@@ -6106,7 +6156,6 @@
 9|Only Connect~Bankers v Lapsed Psychologists~Victoria Coren Mitchell introduces the second semi-final round, in which the Bankers face the Lapsed Psychologists for a place in the grand finale.
 9|Only Connect~Crossworders v Lapsed Psychologists~Victoria Coren Mitchell presents the final of the quiz show of patience and lateral thinking, where successful contestants make connections between things which at first do not appear to be linked. The Crossworders battle the Lapsed Pyschologists to be crowned series victors.
 9|Only Connect~9/9, series 2 - Crossworders v Rugby Boys: The Champion of Champions~Victoria Coren introduces the winners of the first and second series, the Crossworders and Rugby Boys, who compete to become the ultimate champions in the quiz show where successful contestants make connections between things that initially do not appear to be linked.
-9|Premiership Rugby Union~2014/15 Week 12~Highlights of the latest top-flight fixtures, which included London Welsh v Harlequins at the Kassam Stadium, Leicester Tigers v Bath at Welford Road and Exeter Chiefs v Gloucester at Sandy Park. Presented by Mark Durden-Smith and David Flatman.
 9|QI~10/12, series 1 - Alan~Stephen Fry quizzes Alan Davies, Peter Serafinowicz, Julia Morris and Rich Hall on subjects as diverse as air-rage and Alans in the mind-boggling quiz show.
 9|QI~10/12, series 2 - Bills~Stephen Fry asks Alan Davies, Phil Kay, John Sessions and Clive Anderson for more interesting answers on subjects including bills, Bens and buildings in the mind-boggling quiz show.
 9|QI~10/12, series 3 - Cleve Crudgington~Panellists John Sessions, Mark Steel, Clive Anderson and Alan Davies answer questions on corks, cats and carbon dioxide, with host Stephen Fry awarding points for the answers he finds most interesting.
@@ -6616,7 +6665,7 @@
 # One-off demoted titles to be extracted from subtitle field and promoted
 # to programme title, overwriting the programme's 'brand'.
 #
-11|4Music Video Honours~4Music Video Honours 2013
+11|A History of Celtic Britain~A History of Ancient Britain
 11|Ask Lara~Schools
 11|Athletics~Live Athletics
 11|Blackadder~The Black Adder
@@ -6630,7 +6679,6 @@
 11|Cycling~Live Cycling
 11|Danny Dyer's Deadliest Men 2: Living Dangerously~Danny Dyer's Deadliest Men: Living Dangerously
 11|Darts~Live Darts
-11|Film~Film 2013
 11|Food Factory~Jimmy's Food Factory
 11|Formula 1~Live Formula 1
 11|Formula One~Formula 1
@@ -6681,7 +6729,6 @@
 11|Timothy Spall: Somewhere at Sea~Timothy Spall: All at Sea
 11|Top Chef~Top Chef: All Stars
 11|World's Scariest~World's Scariest Plane Landings
-11|World's Strongest Man~World's Strongest Man 2012
 11|You've Been Framed!~You've Been Framed! Kids
 #
 # Programmes incorrectly categorised as films and replacement categories (genre)
@@ -6697,6 +6744,7 @@
 12|Ed Sullivan's Rock 'n' Roll Classics~Music
 12|Edge of Tomorrow Special~Entertainment
 12|Exodus: Gods and Kings Special~Entertainment
+12|Foxcatcher Special~Entertainment
 12|Frozen Special~Entertainment
 12|Fury Special~Entertainment
 12|Grace of Monaco Interview Special~Entertainment
@@ -6731,6 +6779,7 @@
 12|The Theory of Everything Special~Entertainment
 12|The Wolf of Wall Street Special~Entertainment
 12|Unbroken Interview Special~Entertainment
+12|Whiplash Interview Special~Entertainment
 12|Wild Special~Entertainment
 #
 # Arbitrary text to be removed from start/end of given programme's subtitle.
@@ -6743,7 +6792,6 @@
 13|CSI: NY~The CSI Movie
 13|Catchphrase~Catchphrase
 13|Catfish: The TV Show~Catfish
-13|Cricket 2014~Cricket on 5
 13|Dispatches~Channel 4 Dispatches
 13|Edinburgh Comedy Fest Live~Edinburgh Comedy Fest Live
 13|Goodness Gracious Me~Goodness Gracious Me
